@@ -1,1 +1,3 @@
-# Text Editor Starter Code
+# Text Editor
+
+This is a Text Editor.
